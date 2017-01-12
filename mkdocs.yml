@@ -1,9 +1,10 @@
-site_name: Awesome Python
-site_url: http://awesome-python.com
-site_description: A curated list of awesome Python frameworks, libraries and software
-site_author: Vinta Chen
-repo_url: https://github.com/vinta/awesome-python
+site_name: Awesome Pelican
+site_url: http://awesome-pelican.tk
+site_description: A curated list of awesome projects related to Pelican, static-site generator
+site_author: Khaled Monsoor
+repo_url: https://github.com/kmonsoor/awesome-pelican
 theme: flatly
-google_analytics: ['UA-510626-7', 'auto']
+google_analytics: ['UA-90237732-2', 'auto']
 pages:
   - "Life is short, you need Python.": "index.md"
+
