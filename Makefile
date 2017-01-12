@@ -2,7 +2,7 @@ BASEDIR=$(CURDIR)
 DOCDIR=$(BASEDIR)/docs
 
 install:
-	pip install mkdocs
+	pip install mkdocs mkdocs-bootswatch
 
 link:
 	ln -sf $(BASEDIR)/README.md $(DOCDIR)/index.md
