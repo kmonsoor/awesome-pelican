@@ -33,7 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Plugins to complete Pelican's support for widespread functionalities*
 
-* [algorithms](https://github.com/nryoung/algorithms) - A module of algorithms for Python.
+* []() - 
 * []() -
 * []() -
 * []() -
@@ -93,11 +93,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Pelican-related Websites
 
-* [Official Homepage](https://getpelican.com)
+* [Official Homepage](https://blog.getpelican.com/)
 * [Official Twitter](https://twitter.com/getpelican)
 * [Jinja Templating](http://jinja.pocoo.org/)
-* [/r/Python](https://www.reddit.com/r/python)
-* [Awesome Python @LibHunt](http://python.libhunt.com)
+* [/r/Python](https://www.reddit.com/r/python/)
+* [Awesome Python @LibHunt](https://python.libhunt.com/)
 * [StackOverflow Q&A](http://stackoverflow.com/questions/tagged/pelican)
 
 
@@ -112,7 +112,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 List of related lists.
 
- * [Awesome Python](http://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources
+ * [Awesome Python](https://awesome-python.com/) - A curated list of awesome Python frameworks, libraries, software and resources
  * [Pelican Themes](https://github.com/getpelican/pelican-themes) - Official list of themes for pelican
  * [Pelican Plugins](https://github.com/getpelican/pelican-plugins) - Official collection of plugins for the Pelican static site generator
 
