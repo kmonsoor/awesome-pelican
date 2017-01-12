@@ -8,3 +8,6 @@ before_script:
 
 script:
   - awesome_bot README.md --allow-redirect --allow-dupe --white-list pyparsing,graphviz.org
+  
+after_script:
+  - make deploy
