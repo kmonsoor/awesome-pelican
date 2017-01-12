@@ -44,7 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [A tour to Pelican themes](http://www.pelicanthemes.com/) -
 * []() -
-* []() -
+
 
 ## Blogs
 
@@ -52,9 +52,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Personal writeups to guide you through getting started with Pelican*
 
-* []() -
-* []() -
-* []() -
+* [The long road to building a static blog with pelican](https://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html) - George S.
+* [Pelican, a simple static blog generator in python](https://blog.notmyidea.org/pelican-a-simple-static-blog-generator-in-python.html) -  Alexis Métaireau
+* [Making a Static Blog with Pelican](http://nafiulis.me/making-a-static-blog-with-pelican.html) - Nafiul Islam
+* [Ditching Wordpress and becoming one of the cool kids](http://razius.com/articles/ditching-wordpress-and-becoming-one-of-the-cool-kids/) - Silviu Tantos
 
 
 ### Optimization
@@ -70,9 +71,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Getting through a specific platform for deployments*
 
-* [django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) - An asset packaging library for Django.
-
+* []()
+* []()
 
 ## Videos
 
