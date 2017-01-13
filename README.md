@@ -33,10 +33,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Plugins to complete Pelican's support for widespread functionalities*
 
-* []() - 
+* [YUI Compressor Plugin](https://github.com/getpelican/pelican-plugins/tree/master/yuicompressor) - 
 * []() -
-* []() -
-* []() -
+
 
 ## Services
 
@@ -62,17 +61,19 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 *Getting to the next-level with Pelican*
 
-* []() -
-* []() -
-* []() -
+* [How to exclude pages and articles with Pelican](https://bernhard.scheirle.de/posts/2016/March/07/seo-how-to-exclude-pages-and-articles-with-pelican/) - Bernhard Scheirle
+* [Pelican Static sites - SEO Optimization](https://blog.kmonsoor.com/pelican-how-to-make-seo-friendly/) -
+* [Better Figures & Images Plugin for Pelican](http://duncanlock.net/blog/2013/05/29/better-figures-images-plugin-for-pelican/) - Duncan Lock
+* [Exceptional Performance without mod_pagespeed or apache:(Page Speed score:99)](https://www.i.com.pk/exceptional-performance-without-mod_pagespeed-or-apache-page-speed-score99/) - Irfan Ahmad
+* []() - 
 
 
 ### Platform-specific writeups
 
 *Getting through a specific platform for deployments*
 
-* []()
-* []()
+* [Setting up a blog with Pelican and Amazon S3](http://lexual.com/blog/setup-pelican-blog-on-s3/) - Lex Hider
+* [Blog With Pelican and Nginx](https://michael.lustfield.net/nginx/blog-with-pelican-and-nginx) - Michael Lustfield
 
 ## Videos
 
@@ -86,9 +87,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Websites built with Pelican
 
-* []() -
-* []() -
-* []() -
+* [Linux Kernel Organization](https://www.kernel.org/pelican.html)
+* [Hacker Codex](https://hackercodex.com/)
+* [The Soldier's Family](http://www.thesoldiersfamily.com/)
+* [Frogtoss Labs    ](http://www.frogtoss.com/labs/)
 
 
 ## Pelican-related Websites
