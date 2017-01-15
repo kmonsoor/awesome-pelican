@@ -1,15 +1,20 @@
-# Awesome Python
+# Awesome Pelican
 
 
 A curated list of awesome open-source libraries, software and resources that are directly related to Pelican, the static-site-generator.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
+## What's different here from official lists ?
+While official website should keep all the plugins, themes and resources listed, here we'll try to maintain only the well-mai tainted, stable, essential or popular ones. So that, a new not-so-techie Pelican beginner can hit the ground running using this lists.  
+  
+  
+## Table of contents
 - [Themes](#themes)
 - [Plugins](#plugins)
 - [Services](#services)
-- [Blogs](#blogs)
-    - [Getting started](#getting-started)
+- [Writeups](#writeups)
+    - [Getting started](#getting-started)
     - [Optimization](#optimization)
     - [Platform-specific](#platform-specific)
 - [Videos](#videos)  
@@ -68,13 +73,15 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Deploying Pelican on Netlify](https://www.netlify.com/blog/2015/10/15/a-step-by-step-guide-pelican-on-netlify/) - Netlify official documentation
 
 
-### Platform-specific writeups
+### Platform-specific
 
 *Getting through a specific platform for deployments*
 
 * [Setting up a blog with Pelican and Amazon S3](http://lexual.com/blog/setup-pelican-blog-on-s3/) - Lex Hider
 * [Blog With Pelican and Nginx](https://michael.lustfield.net/nginx/blog-with-pelican-and-nginx) - Michael Lustfield 
 * []()
+
+
 ## Videos
 
 *Videos regarding Pelican*
