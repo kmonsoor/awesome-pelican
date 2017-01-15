@@ -45,7 +45,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * []() -
 
 
-## Blogs
+## Write-ups
 
 ### Getting Started
 
@@ -65,7 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 * [Pelican Static sites - SEO Optimization](https://blog.kmonsoor.com/pelican-how-to-make-seo-friendly/) -
 * [Better Figures & Images Plugin for Pelican](http://duncanlock.net/blog/2013/05/29/better-figures-images-plugin-for-pelican/) - Duncan Lock
 * [Exceptional Performance without mod_pagespeed or apache:(Page Speed score:99)](https://www.i.com.pk/exceptional-performance-without-mod_pagespeed-or-apache-page-speed-score99/) - Irfan Ahmad
-* []() - 
+* [Deploying Pelican on Netlify](https://www.netlify.com/blog/2015/10/15/a-step-by-step-guide-pelican-on-netlify/) - Netlify official documentation
 
 
 ### Platform-specific writeups
@@ -73,8 +73,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 *Getting through a specific platform for deployments*
 
 * [Setting up a blog with Pelican and Amazon S3](http://lexual.com/blog/setup-pelican-blog-on-s3/) - Lex Hider
-* [Blog With Pelican and Nginx](https://michael.lustfield.net/nginx/blog-with-pelican-and-nginx) - Michael Lustfield
-
+* [Blog With Pelican and Nginx](https://michael.lustfield.net/nginx/blog-with-pelican-and-nginx) - Michael Lustfield 
+* []()
 ## Videos
 
 *Videos regarding Pelican*
