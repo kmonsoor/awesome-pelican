@@ -6,7 +6,7 @@ A curated list of awesome open-source libraries, software and resources that are
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## What's different here from official lists ?
-While official website should keep all the plugins, themes and resources listed, here we'll try to maintain only the well-mai tainted, stable, essential or popular ones. So that, a new not-so-techie Pelican beginner can hit the ground running using this lists.  
+While official website should keep all the plugins, themes and resources listed, here we'll try to maintain only the well-maintained, stable, essential or popular ones. So that, a new not-so-techie Pelican beginner can hit the ground running using this list.  
   
   
 ## Table of contents
@@ -32,12 +32,15 @@ While official website should keep all the plugins, themes and resources listed,
 * [BlueIdea](https://github.com/blueicefield/pelican-blueidea) - A theme inspired by the default theme notmyidea
 * [Elegant](https://github.com/talha131/pelican-elegant/) - A responsive theme that gives meaning to the expression “sand the under side of the drawer.”
 * [Plumage](https://github.com/kdeldycke/plumage) - Based on Bootstrap 3, code-snippets via Pygments
+* [pelican-svbhack](https://github.com/gfidente/pelican-svbhack) - A responsive theme based on the svbtle-like look
 
 
 ## Plugins
 
 *Awesome Plugins to complete Pelican's support for widespread functionalities*
 
+* [BibTeX](https://github.com/vene/pelican-bibtex) - Manage your academic publications page with Pelican and BibTeX
+* [IPynb](https://github.com/danielfrg/pelican-ipynb) - for blogging with Jupyter/IPython Notebooks
 * [YUI Compressor Plugin](https://github.com/getpelican/pelican-plugins/tree/master/yuicompressor) - 
 * []() -
 
