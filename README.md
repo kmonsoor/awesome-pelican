@@ -13,10 +13,10 @@ While official website should keep all the plugins, themes and resources listed,
 - [Themes](#themes)
 - [Plugins](#plugins)
 - [Services](#services)
-- [Writeups](#writeups)
-    - [Getting started](#getting-started)
-    - [Optimization](#optimization)
-    - [Platform-specific](#platform-specific)
+- [Writeups](#writeups)    
+    * [Getting started](#getting-started)
+    * [Optimization](#optimization)
+    * [Platform-specific](#platform-specific)
 - [Videos](#videos)  
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
@@ -25,7 +25,7 @@ While official website should keep all the plugins, themes and resources listed,
 
 ## Themes
 
-*Libraries for UI interfaces.*
+*Awesome themes for UI interfaces.*
 
 * [pelican-alchemy](https://github.com/nairobilug/pelican-alchemy/) - A magical :sparkles: theme powered by Bootstrap 4
 * [Backdrop](https://github.com/getpelican/pelican-themes/tree/master/backdrop) - A responsive theme, built on Zurb Foundation
@@ -36,7 +36,7 @@ While official website should keep all the plugins, themes and resources listed,
 
 ## Plugins
 
-*Plugins to complete Pelican's support for widespread functionalities*
+*Awesome Plugins to complete Pelican's support for widespread functionalities*
 
 * [YUI Compressor Plugin](https://github.com/getpelican/pelican-plugins/tree/master/yuicompressor) - 
 * []() -
@@ -46,11 +46,11 @@ While official website should keep all the plugins, themes and resources listed,
 
 *Services that facilitates Pelican deployments*
 
-* [A tour to Pelican themes](http://www.pelicanthemes.com/) -
+* [A tour to Pelican themes](http://www.pelicanthemes.com/) - A visual tour of Pelican themes generated from the official list
 * []() -
 
 
-## Write-ups
+## Writeups
 
 ### Getting Started
 
