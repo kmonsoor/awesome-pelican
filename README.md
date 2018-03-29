@@ -82,7 +82,7 @@ While official website should keep all the plugins, themes and resources listed,
 
 * [Setting up a blog with Pelican and Amazon S3](http://lexual.com/blog/setup-pelican-blog-on-s3/) - Lex Hider
 * [Blog With Pelican and Nginx](https://michael.lustfield.net/nginx/blog-with-pelican-and-nginx) - Michael Lustfield 
-* []()
+* [A Pelican Blog with Search & Comments on Netlify](https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
 
 
 ## Videos
